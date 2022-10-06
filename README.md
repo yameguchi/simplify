@@ -10,3 +10,5 @@ Simplify your Spotify playlist creation experience
 ![Screen Shot 2022-10-05 at 8 13 22 PM](https://user-images.githubusercontent.com/115129966/194212591-7ef72a0e-4200-4458-a72c-439d0f521bad.png)
 
 ![Screen Shot 2022-10-05 at 8 13 31 PM](https://user-images.githubusercontent.com/115129966/194212600-79c271fd-2337-4b8c-a253-44670b15fd3e.png)
+
+![Screen Shot 2022-10-05 at 10 06 35 PM](https://user-images.githubusercontent.com/115129966/194219423-d44b164e-ca93-485a-b5c3-ba3a39ce635a.png)
