@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>simplify</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+
+    <script src="js/index.js"></script>
+
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+        * {
+            margin: 0;
+            padding: 0;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Montserrat", sans-serif;
+        }
+
+        .wrapper {
+            width: 100vw;
+            height: 100vh;
+        }
+
+        .header {
+            height: 150px;
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            padding: 0px 50px 0px 75px;
+            background: #272727;
+        }
+
+        .app-title-wrapper {
+            width: 15%;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+
+        .app-title {
+            color: #f6f4e6;
+        }
+
+        .app-description-wrapper {
+            width: 35%;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+
+            position: relative;
+            top: 5px;
+        }
+
+        .app-description {
+            color: #f6f4e6;
+            font-size: larger;
+        }
+
+        .nav-wrapper {
+            width: 50%;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: right;
+            align-items: center;
+            padding: 0 30px 0 0;
+        }
+
+        .navMenu {
+            right: 0px;
+        /* -webkit-transform: translate(-50%, -50%); */
+        /* transform: translate(-50%, -50%); */
+        }
+
+        .navMenu a {
+            color: #f6f4e6;
+            text-decoration: none;
+            font-size: 1.2em;
+            text-transform: uppercase;
+            font-weight: 500;
+            display: inline-block;
+            width: 80px;
+            -webkit-transition: all 0.2s ease-in-out;
+            transition: all 0.2s ease-in-out;
+        }
+
+        .navMenu a:hover {
+            color: #1DB954;
+        }
+
+        .navMenu .dot {
+            width: 6px;
+            height: 6px;
+            background: #1DB954;
+            border-radius: 50%;
+            opacity: 0;
+            -webkit-transform: translateX(30px);
+            transform: translateX(30px);
+            -webkit-transition: all 0.2s ease-in-out;
+            transition: all 0.2s ease-in-out;
+        }
+
+        .navMenu a:nth-child(1):hover ~ .dot {
+            -webkit-transform: translateX(30px);
+            transform: translateX(30px);
+            -webkit-transition: all 0.2s ease-in-out;
+            transition: all 0.2s ease-in-out;
+            opacity: 1;
+        }
+
+        .navMenu a:nth-child(2):hover ~ .dot {
+            -webkit-transform: translateX(110px);
+            transform: translateX(110px);
+            -webkit-transition: all 0.2s ease-in-out;
+            transition: all 0.2s ease-in-out;
+            opacity: 1;
+        }
+
+        .navMenu a:nth-child(3):hover ~ .dot {
+        -webkit-transform: translateX(200px);
+        transform: translateX(200px);
+        -webkit-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        opacity: 1;
+        }
+
+        /* .navMenu a:nth-child(4):hover ~ .dot {
+        -webkit-transform: translateX(285px);
+        transform: translateX(285px);
+        -webkit-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        opacity: 1;
+        } */
+
+        .body-wrapper {
+            width: 100%;
+            height: 75vh;
+            background: #272727;
+            /* background-image: url("img/background_img2.png");
+            background-size:     cover;
+            background-repeat: no-repeat;
+            background-position: center center;  */
+            /* background-blend-mode:luminosity; */
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .get-started-wrapper {
+            color: #f6f4e6;
+            position: relative;
+            top: -30px;
+            text-align: center;
+            justify-content: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .get-started-title {
+            margin-bottom: 15px;
+        }
+
+        .get-started-blurb-wrapper {
+            margin-bottom: 25px;
+            width: 60%;
+        }
+
+        .get-started-btn-wrapper {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+
+        }
+
+        .get-started-btn {
+            display: inline-block;
+            outline: none;
+            cursor: pointer;
+            font-size: 14px;
+            line-height: 1;
+            border-radius: 500px;
+            border: 1px solid transparent;
+            letter-spacing: 2px;
+            min-width: 160px;
+            text-transform: uppercase;
+            white-space: normal;
+            font-weight: 700;
+            text-align: center;
+            color: #fff;
+            background-color: #15883e;
+            height: 48px;   
+
+            transition: all 0.3s ease-in-out;
+        }
+
+        .get-started-btn:hover {
+            transform: scale(1.1);
+        }
+
+
+
+        /* .body-wrapper :hover {
+            opacity:0.3;
+            transition: opacity .4s ease-out;
+            -moz-transition: opacity .4s ease-out;
+            -webkit-transition: opacity .4s ease-out;
+            -o-transition: opacity .4s ease-out;
+        } */
+
+        .button {
+            background-color: #04AA6D;
+            border: none;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+        }
+
+        .button1 {border-radius: 2px;}
+        .button2 {border-radius: 4px;}
+        .button3 {border-radius: 8px;}
+        .button4 {border-radius: 12px;}
+        .button5 {border-radius: 50%;}
+
+        .footer-wrapper {
+            width: 100%;
+            height: 15vh;
+            background: #272727;
+        }
+        #overlay {
+            width: 100%; /* Full width (cover the whole page) */
+            height: 100%; /* Full height (cover the whole page) */
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0,0,0,0.20); /* Black background with opacity */
+            z-index: 99; /* Specify a stack order in case you're using a different order for other elements */
+            cursor: pointer; /* Add a pointer on hover */
+        }
+
+        .app-description-wrapper {
+            width: 50%;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="header-wrapper">
+        <div class="header">
+            <div class="app-title-wrapper">
+                <h1 class="app-title">
+                    simplify
+                </h1>
+            </div>
+
+            <div class="app-description-wrapper">
+                <h3 class="app-description">
+                    <!-- Create your playlist in seconds -->
+                </h3>
+            </div>
+
+            <div class="nav-wrapper">
+                <nav class="navMenu">
+                    <a href="#">Home</a>
+                    <a href="#">About</a>
+                    <a href="#">Social</a>
+                    <div class="dot"></div>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="body-wrapper">
+        <div class="get-started-wrapper">
+            <div class="get-started-title">
+                <h1>
+                    Create your playlist in seconds
+                </h1>
+            </div>
+            <div class="get-started-blurb-wrapper">
+                <p class="app-description-blurb">Need a playlist on the go? Simplify's got your back</p>
+            </div>
+            <div class="get-started-btn-wrapper">
+                <input type="button" class="get-started-btn" value="get started" onclick="requestAuthorization()">
+            </div>
+        </div>
+    </div>
+    <div class="footer-wrapper">
+
+    </div>
+
+
+    </div>
+</body>
+</html>
