@@ -21,37 +21,70 @@ Ever wanted to create a Spotify playlist on the go? Or a playlist starter? I pro
 
 Playlist creation has become a tedious task for me on Spotify. It takes hours to construct the perfect bucket of songs that matches a certain vibe or feel. I'm sure we've all been there before. Public playlists are a good start, but what if I ONLY want pieces I have interacted with before?
 
-To tackle this, I used the Spotify API and some data science to output the most relevant songs for the options that you select. (Check out the <a href="#demo">demo</a>). This was possible by applying TF-IDF Vectorizer on track genres to crunch its relevancy and weight and using cosine similarity to rank track similarity between users' tracks and the user chosen criteria.
+To tackle this, I used the Spotify API and some data science to output relevant songs for the options that you select. (Check out the <a href="#demo">demo</a>). This was possible by applying TF-IDF Vectorizer on track genres to crunch its relevancy and weight and using cosine similarity to rank tracks according to its similarity to a criteria.
 
 
 <!-- Post Mortem --> 
 ## Post Retrospective
-### Key take aways
-Prior to this project, I had no web-development or data science experience. However, within three months, I was able to create a functioning product. Although not perfect, due to the lack of error handling, security, and scalability, I learned many valuable lessons that I can apply to future projects. The following are my key take-aways:
+### Successes
+Here are a few milestones I hit during the three months of developing this app:
 <ul>
+  <li>
+    Learned four new languages: <b>Python, JavaScript, HTML, CSS</b>
+  </li>
+  <li>
+    Learned the foundation of both frontend and backend programming in web development, and applied them
+  </li>
+  <li>
+    Applied the steps involved in data analysis: data retrieval, data cleaning, data processing and intrepretation of results
+  </li>
+  <li>
+    Learned the importance of receiving user input and feedback
+  </li>
+</ul>
+
+## Failures
+During the three months of developing this app, I had many roadblocks and failures:
+<ul>
+  <li>
+    Implementing a secure database
+  </li>
+  <li>
+    Maximizing efficiency - app takes up to 30 seconds to initialize
+  </li>
+  <li>
+    Having complete error handling
+  </li>
+  <li>
+    Storing user information securely
+  </li>
+</ul>
+
+### Key take aways
+Prior to this project, I had no web-development or data science experience. However, within three months, I was able to create a functioning product that applies both. Although not perfect, I learned many valuable lessons that I can apply to future projects. The following are my key take-aways:
+<ul>
+  <li>
+    Know what you don't know
+  </li>
+  <li>
+    Set realistic goals and stick to them
+  </li>
   <li>
     Focus on the right things
-    <ul>
-      <li>
-        When it comes to self-learning projects, it's really easy to fall off course. By reminding myself of the purpose of my project, I was able to focus on the right things
-      </li>
-    </ul>
-  
   </li>
-  
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
-
-
-
-### Successes
-<ul>
   <li>
+    Think about the users
+  </li>
+  <li>
+    Garbage in, garbage out
+  </li>
+  <li>
+    Learn to learn <b>fast</b>!
+  </li>
+  <li>
+    Read. The. Docs!
+  </li>
 </ul>
-If I had more time and resources to continue this project, I would love to apply more machine learning algorithms to output user-specific 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
