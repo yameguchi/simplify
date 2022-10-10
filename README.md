@@ -23,6 +23,7 @@ Playlist creation has become a tedious task for me on Spotify. It takes hours to
 
 To tackle this, I used the Spotify API and some data science to output relevant songs for the options that you select. (Check out the <a href="#demo">demo</a>). This was possible by applying TF-IDF on track genres to crunch its relevancy and weight and using cosine similarity to rank tracks according to its similarity to a criteria.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Post Mortem --> 
 ## Post Retrospective
@@ -44,7 +45,7 @@ Here are a few milestones I hit during the three months of developing this app:
 </ul>
 
 ### Failures
-During the three months of developing this app, I had many roadblocks and failures. If I had the time and resources, I would want to:
+I had many roadblocks and failures while developing the app. I failed to:
 <ul>
   <li>
     Implement a secure database
@@ -59,6 +60,7 @@ During the three months of developing this app, I had many roadblocks and failur
     Store user information securely
   </li>
 </ul>
+I have looked into each issues, and have began implementing solutions in other projects.
 
 ### Key take aways
 Prior to this project, I had no web-development or data science experience. However, within three months, I was able to create a functioning product that applies both. Although not perfect, I learned many valuable lessons that I can apply to future projects. The following are my key take-aways:
@@ -85,7 +87,6 @@ Prior to this project, I had no web-development or data science experience. Howe
     Read. The. Docs!
   </li>
 </ul>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
@@ -94,7 +95,7 @@ For any questions in regards to my project, please contact me.
 
 Yamato Eguchi - [@yeguchi_dev](https://twitter.com/yeguchi_dev) - yamatoe1227@gmail.com
 
-
+<br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
