@@ -1,9 +1,9 @@
 # simplify
-Simplify your Spotify playlist creation experience
+<h3>Simplify your Spotify playlist creation experience</h3>
 
 
 
-<h1>DEMO</h1>
+<h2>DEMO</h2>
 
 <img width="1505" alt="Screen Shot 2022-10-02 at 12 27 47 PM" src="https://user-images.githubusercontent.com/115129966/194221182-03febd29-1664-4a90-9dd1-04927ad89fdd.png">
 
