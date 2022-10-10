@@ -43,7 +43,7 @@ Here are a few milestones I hit during the three months of developing this app:
   </li>
 </ul>
 
-## Failures
+### Failures
 During the three months of developing this app, I had many roadblocks and failures:
 <ul>
   <li>
