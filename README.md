@@ -142,6 +142,10 @@ Yamato Eguchi - [@yeguchi_dev](https://twitter.com/yeguchi_dev) - yamatoe1227@gm
 </div>
 
   <h3><li>You will be prompted to log in to your Spotify.</li></h3>
+  
+<div align="center">
+    <img src="img/simplify_agreement_form.png" alt="Landing page" width="1000" height="auto">
+</div>
 
 ![Screen Shot 2022-10-05 at 8 12 28 PM (2)](https://user-images.githubusercontent.com/115129966/194948286-64c7301a-a25e-4f9b-bf94-a80814295415.png)
 
