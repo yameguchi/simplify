@@ -21,7 +21,7 @@ Ever wanted to create a Spotify playlist on the go? Or a playlist starter? I pro
 
 Playlist creation has become a tedious task for me on Spotify. It takes hours to construct the perfect bucket of songs that matches a certain vibe or feel. I'm sure we've all been there before. Public playlists are a good start, but what if I ONLY want pieces I have interacted with before?
 
-To tackle this, I used the Spotify API and some data science to output the most relevant songs for the options that you select.
+To tackle this, I used the Spotify API and some data science to output the most relevant songs for the options that you select. (Check out the <a href="#demo">demo</a>.)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
