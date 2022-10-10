@@ -44,19 +44,19 @@ Here are a few milestones I hit during the three months of developing this app:
 </ul>
 
 ### Failures
-During the three months of developing this app, I had many roadblocks and failures:
+During the three months of developing this app, I had many roadblocks and failures. If I had the time and resources, I would want to:
 <ul>
   <li>
-    Implementing a secure database
+    Implement a secure database
   </li>
   <li>
-    Maximizing efficiency - app takes up to 30 seconds to initialize
+    Maximize efficiency - app takes up to 30 seconds to initialize
   </li>
   <li>
-    Having complete error handling
+    Have complete error handling
   </li>
   <li>
-    Storing user information securely
+    Store user information securely
   </li>
 </ul>
 
