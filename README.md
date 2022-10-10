@@ -1,7 +1,7 @@
 # simplify
 <h3>Simplify your Spotify playlist creation experience</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p>
+<p style="margin-left: 15px">
 Ever wanted to create a Spotify playlist on the go? Or a playlist starter? I programmed a web app that does just that!
 
 Playlist creation has become a tedious task for me on Spotify. It takes hours to construct the perfect bucket of songs that matches a certain vibe or feel. 
