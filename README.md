@@ -90,6 +90,7 @@ Prior to this project, I had no web-development or data science experience. Howe
 
 <!-- CONTACT -->
 ## Contact
+For any questions in regards to my project, please contact me.
 
 Yamato Eguchi - [@yeguchi_dev](https://twitter.com/yeguchi_dev) - yamatoe1227@gmail.com
 
