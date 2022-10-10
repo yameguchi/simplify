@@ -6,7 +6,7 @@
   Playlist creation has become a tedious task for me on Spotify. It takes hours to construct the perfect bucket of songs that matches a certain vibe or feel. 
   I'm sure we've all been there before. Public playlists are a good start, but what if I ONLY want pieces I have interacted with before?
 
-  To achieve this, I used the Spotify API to retrieve data on songs in users' playlists and Liked Songs. 
+  To achieve this, I used the Spotify API to retrieve data on songs in users' playlists and Liked Songs. Then used compared them to a preset playlist that defines the attributes of playlist options available <a href=https://en.wikipedia.org/wiki/Cosine_similarity>cosine similarity</a> 
 </p>
 
 ## DEMO
