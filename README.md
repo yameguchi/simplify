@@ -21,7 +21,9 @@ Ever wanted to create a Spotify playlist on the go? Or a playlist starter? I pro
 
 Playlist creation has become a tedious task for me on Spotify. It takes hours to construct the perfect bucket of songs that matches a certain vibe or feel. I'm sure we've all been there before. Public playlists are a good start, but what if I ONLY want pieces I have interacted with before?
 
-To tackle this, I used the Spotify API and some data science to output relevant songs for the options that you select. (Check out the <a href="#demo">demo</a>). This was possible by applying TF-IDF on track genres to crunch its relevancy and weight and using cosine similarity to rank tracks according to its similarity to a criteria.
+To tackle this, I used the Spotify API and some data science to output relevant songs for the options that you select. (Check out the <a href="#demo">demo</a>). The web app connects to your Spotify account and gives you an option to add the playlist generated to your library. This opens up many doors for users as it can serve as a playlist starter or a playlist on-the-go.
+
+I generated user-relevant playlists by applying TF-IDF on track genres to crunch its relevancy and weight and using cosine similarity to rank tracks according to its similarity to a criteria.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
