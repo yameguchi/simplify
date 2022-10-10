@@ -10,8 +10,8 @@ To achieve this, I used the Spotify API to retrieve data on songs in users' play
 
 ## DEMO
 
-<ol>
-  ### <li>Once on the landing page, click "Get Started".</li>
+### <ol>
+  <h3><li>Once on the landing page, click "Get Started".</li></h3>
 
 <img width="1505" alt="Screen Shot 2022-10-02 at 12 27 47 PM" src="https://user-images.githubusercontent.com/115129966/194221182-03febd29-1664-4a90-9dd1-04927ad89fdd.png">
 
