@@ -12,11 +12,11 @@
 
   <h3><li>You will be prompted to log in to your Spotify.</li></h3>
 
-<img width="1508" alt="Screen Shot 2022-10-02 at 12 27 57 PM" src="https://user-images.githubusercontent.com/115129966/194948237-5e5ee8e2-d882-458c-b847-11df6ae4587c.png">
+![Screen Shot 2022-10-05 at 8 12 28 PM (2)](https://user-images.githubusercontent.com/115129966/194948286-64c7301a-a25e-4f9b-bf94-a80814295415.png)
 
   <h3><li>Once logged in, it will take up to a minute to initialize.</li></h3>
 
-<img width="1512" alt="Screen Shot 2022-10-02 at 12 27 57 PM" src="https://user-images.githubusercontent.com/115129966/194947565-6d10aa2e-2b7c-4f31-a5b5-e4bb625a01da.png">
+<img width="1508" alt="Screen Shot 2022-10-02 at 12 27 57 PM" src="https://user-images.githubusercontent.com/115129966/194948306-ee37d29f-3301-480f-90d2-78a0d57cd4ab.png">
 
   <h3><li>Click through the green buttoned options to select the playlist of your choice.</li></h3>
 
