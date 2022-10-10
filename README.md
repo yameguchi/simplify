@@ -12,7 +12,7 @@
 
   <h3><li>You will be prompted to log in to your Spotify.</li></h3>
 
-![Screen Shot 2022-10-05 at 8 12 28 PM (2)](https://user-images.githubusercontent.com/115129966/194947380-76a58828-2842-4a8b-be00-c26c0f9d4c5d.png)
+<img width="1508" alt="Screen Shot 2022-10-02 at 12 27 57 PM" src="https://user-images.githubusercontent.com/115129966/194948237-5e5ee8e2-d882-458c-b847-11df6ae4587c.png">
 
   <h3><li>Once logged in, it will take up to a minute to initialize.</li></h3>
 
