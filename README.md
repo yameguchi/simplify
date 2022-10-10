@@ -1,7 +1,6 @@
 # simplify
 <h3>Simplify your Spotify playlist creation experience</h3>
 
-## Product Goal
 Ever wanted to create a Spotify playlist on the go? Or a playlist starter? I programmed a web app that does just that!
 
 Playlist creation has become a tedious task for me on Spotify. It takes hours to construct the perfect bucket of songs that matches a certain vibe or feel. I'm sure we've all been there before. Public playlists are a good start, but what if I ONLY want pieces I have interacted with before?
@@ -9,10 +8,10 @@ Playlist creation has become a tedious task for me on Spotify. It takes hours to
 To achieve this, I used the Spotify API to retrieve data on songs in users' playlists and Liked Songs. 
 
 
-<h2>DEMO</h2>
+## DEMO
 
 <ol>
-  <h3><li>Once on the landing page, click "Get Started".</li></h3>
+  ### <li>Once on the landing page, click "Get Started".</li>
 
 <img width="1505" alt="Screen Shot 2022-10-02 at 12 27 47 PM" src="https://user-images.githubusercontent.com/115129966/194221182-03febd29-1664-4a90-9dd1-04927ad89fdd.png">
 
