@@ -8,7 +8,7 @@
 <img width="1505" alt="Screen Shot 2022-10-02 at 12 27 47 PM" src="https://user-images.githubusercontent.com/115129966/194221182-03febd29-1664-4a90-9dd1-04927ad89fdd.png">
 
 <ol>
-  <li><h3>You will be prompted to log in to your Spotify</h3></li>
+  <h3><li>You will be prompted to log in to your Spotify</li></h3>
 
 ![Screen Shot 2022-10-05 at 8 12 28 PM (2)](https://user-images.githubusercontent.com/115129966/194947380-76a58828-2842-4a8b-be00-c26c0f9d4c5d.png)
 
