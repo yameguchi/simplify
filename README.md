@@ -21,7 +21,37 @@ Ever wanted to create a Spotify playlist on the go? Or a playlist starter? I pro
 
 Playlist creation has become a tedious task for me on Spotify. It takes hours to construct the perfect bucket of songs that matches a certain vibe or feel. I'm sure we've all been there before. Public playlists are a good start, but what if I ONLY want pieces I have interacted with before?
 
-To tackle this, I used the Spotify API and some data science to output the most relevant songs for the options that you select. (Check out the <a href="#demo">demo</a>). With the help of packages such as <a href="https://scikit-learn.org/" target="blank">scikit-learn</a>
+To tackle this, I used the Spotify API and some data science to output the most relevant songs for the options that you select. (Check out the <a href="#demo">demo</a>). This was possible by applying TF-IDF Vectorizer on track genres to crunch its relevancy and weight and using cosine similarity to rank track similarity between users' tracks and the user chosen criteria.
+
+
+<!-- Post Mortem --> 
+## Post Retrospective
+### Key take aways
+Prior to this project, I had no web-development or data science experience. However, within three months, I was able to create a functioning product. Although not perfect, due to the lack of error handling, security, and scalability, I learned many valuable lessons that I can apply to future projects. The following are my key take-aways:
+<ul>
+  <li>
+    Focus on the right things
+    <ul>
+      <li>
+        When it comes to self-learning projects, it's really easy to fall off course. By reminding myself of the purpose of my project, I was able to focus on the right things
+      </li>
+    </ul>
+  
+  </li>
+  
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+
+
+### Successes
+<ul>
+  <li>
+</ul>
+If I had more time and resources to continue this project, I would love to apply more machine learning algorithms to output user-specific 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
