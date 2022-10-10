@@ -144,20 +144,21 @@ Yamato Eguchi - [@yeguchi_dev](https://twitter.com/yeguchi_dev) - yamatoe1227@gm
   <h3><li>You will be prompted to log in to your Spotify.</li></h3>
   
 <div align="center">
-    <img src="img/simplify_agreement_form.png" alt="Landing page" width="1000" height="auto">
+    <img src="img/simplify_agreement_form.png" alt="Agreement form" width="1000" height="auto">
 </div>
-
-![Screen Shot 2022-10-05 at 8 12 28 PM (2)](https://user-images.githubusercontent.com/115129966/194948286-64c7301a-a25e-4f9b-bf94-a80814295415.png)
-
+  
   <h3><li>Once logged in, it will take up to a minute to initialize.</li></h3>
 
-<img width="1508" alt="Screen Shot 2022-10-02 at 12 27 57 PM" src="https://user-images.githubusercontent.com/115129966/194948306-ee37d29f-3301-480f-90d2-78a0d57cd4ab.png">
+<div align="center">
+    <img src="img/simplify_loading_screen.png" alt="Loading screen" width="1000" height="auto">
+</div>
 
   <h3><li>Click through the green buttoned options to select the playlist of your choice.</li></h3>
-
-![Screen Shot 2022-10-05 at 8 12 55 PM](https://user-images.githubusercontent.com/115129966/194221216-945aa673-f1ef-43e9-9aab-7f5625fc61d0.png)
-![Screen Shot 2022-10-05 at 8 13 22 PM](https://user-images.githubusercontent.com/115129966/194221237-324fa911-81f0-4bef-8679-bdfec978ec58.png)
-![Screen Shot 2022-10-05 at 8 13 31 PM](https://user-images.githubusercontent.com/115129966/194221245-777d39ad-fd9c-4358-acac-be5c242d581b.png)
+<div align="center">
+    <img src="img/simplify_roadtrip_playlist.png" alt="Roadtrip playlist" width="1000" height="auto">
+    <img src="img/simplify_indie_playlist.png" alt="Indie playlist" width="1000" height="auto">
+    <img src="img/simplify_classical_playlist.png" alt="Classical playlist" width="1000" height="auto">
+</div>
 
 <h3><li>To add the playlist to your Spotify Library, scroll down and click "Add to Playlist".</li></h3>
 
