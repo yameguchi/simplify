@@ -162,11 +162,14 @@ Yamato Eguchi - [@yeguchi_dev](https://twitter.com/yeguchi_dev) - yamatoe1227@gm
 
 <h3><li>To add the playlist to your Spotify Library, scroll down and click "Add to Playlist".</li></h3>
 
-![Screen Shot 2022-10-05 at 10 24 21 PM](https://user-images.githubusercontent.com/115129966/194221261-8a7ddf75-5e08-4627-abcb-d34528fe158d.png)
-
+<div align="center">
+    <img src="img/simplify_add_to_playlist_btn.png.png" alt="Add to playlist button" width="auto" height="auto">
+</div>
+  
 <h3><li>Go to your Spotify Playlist Library and enjoy!</li></h3>
 
-![Screen Shot 2022-10-05 at 10 06 35 PM](https://user-images.githubusercontent.com/115129966/194221251-9de1c3e0-29e7-4528-87bf-258a904a3c85.png)
-
+<div align="center">
+    <img src="img/simplify_sample.png.png" alt="Add to playlist button" width="auto" height="auto">
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
