@@ -25,9 +25,8 @@ To tackle this, I used the Spotify API and some data science to output relevant 
 
 I generated user-relevant playlists by applying TF-IDF on track genres to crunch its relevancy and weight and using cosine similarity to rank tracks according to its similarity to a criteria.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br>
 <!--
-<!-- Post Mortem --> 
 ## Post Retrospective
 ### Successes
 Here are a few milestones I hit during the three months of developing this app:
@@ -89,7 +88,6 @@ Prior to this project, I had no web-development or data science experience. Howe
     Read. The. Docs!
   </li>
 </ul>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 -->
 
