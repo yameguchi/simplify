@@ -163,13 +163,13 @@ Yamato Eguchi - [@yeguchi_dev](https://twitter.com/yeguchi_dev) - yamatoe1227@gm
 <h3><li>To add the playlist to your Spotify Library, scroll down and click "Add to Playlist".</li></h3>
 
 <div align="center">
-    <img src="img/simplify_add_to_playlist_btn.png.png" alt="Add to playlist button" width="auto" height="auto">
+    <img src="img/simplify_add_to_playlist_btn.png" alt="Add to playlist button" width="auto" height="auto">
 </div>
   
 <h3><li>Go to your Spotify Playlist Library and enjoy!</li></h3>
 
 <div align="center">
-    <img src="img/simplify_sample.png.png" alt="Add to playlist button" width="auto" height="auto">
+    <img src="img/simplify_sample.png" alt="Sample output" width="auto" height="auto">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
