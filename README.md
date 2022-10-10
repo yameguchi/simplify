@@ -137,7 +137,9 @@ Yamato Eguchi - [@yeguchi_dev](https://twitter.com/yeguchi_dev) - yamatoe1227@gm
 <ol>
   <h3><li>Once on the landing page, click "Get Started".</li></h3>
 
-<img width="1505" alt="Screen Shot 2022-10-02 at 12 27 47 PM" src="https://user-images.githubusercontent.com/115129966/194221182-03febd29-1664-4a90-9dd1-04927ad89fdd.png">
+<div align="center">
+    <img src="img/simplify_landing_page.png" alt="Landing page" width="1000" height="auto">
+</div>
 
   <h3><li>You will be prompted to log in to your Spotify.</li></h3>
 
