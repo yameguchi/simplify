@@ -1,6 +1,5 @@
 # simplify
 <h3>Simplify your Spotify playlist creation experience</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
   Ever wanted to create a Spotify playlist on the go? Or a playlist starter? I programmed a web app that does just that!
 
