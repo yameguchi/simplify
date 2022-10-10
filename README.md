@@ -2,7 +2,11 @@
 <h3>Simplify your Spotify playlist creation experience</h3>
 
 ## Product Goal
-Spotify provides a platform for users to discover and enjoy music globally. As user’s discover new music, their library expands. Therefore, the playlists feature, which allows users to sort their music into smaller libraries, becomes a must-use feature to keep their songs organized. However, to create a playlist, users must: 1) listen to songs, 2) determine what playlist each song falls under and/or create a new playlists, and 3) as the playlist grows, micromanage the contents of playlists. This process is time consuming and can be mentally and physically demanding especially when dealing with a large number of songs. To combat this, **Yamify will automate the playlist creation process.**
+Ever wanted to create a Spotify playlist on the go? Or a playlist starter? I programmed a web app that does just that!
+
+Playlist creation has become a tedious task for me on Spotify. It takes hours to construct the perfect bucket of songs that matches a certain vibe or feel. I'm sure we've all been there before. Public playlists are a good start, but what if I ONLY want pieces I have interacted with before?
+
+To achieve this, I used the Spotify API to retrieve data on songs in users' playlists and Liked Songs. 
 
 
 <h2>DEMO</h2>
