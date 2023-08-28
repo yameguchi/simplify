@@ -25,6 +25,17 @@ To tackle this, I used the Spotify API and some data science to output relevant 
 I generated user-relevant playlists by applying TF-IDF on track genres to crunch their relevancy and weight. Then, I used cosine similarity to rank tracks according to criteria.
 
 
+The Challenge
+Playlist creation can be a daunting and time-consuming task. Crafting the perfect collection of songs that encapsulates a particular mood or ambiance often takes hours of searching and curating. We've all been there, right? While public playlists offer a solid starting point, they might not cater to our specific preferences and interactions with music.
+
+The Solution
+To address this challenge, I've harnessed the capabilities of the Spotify API and leveraged data science techniques to create a solution that simplifies and enhances playlist creation. The heart of the solution lies in generating playlists tailored to your individual musical journey and interactions.
+
+Features
+Personalization: The web app seamlessly connects with your Spotify account, giving you a personalized playlist generation experience.
+Intelligent Song Selection: Using a blend of data science methodologies, including TF-IDF analysis on track genres and cosine similarity ranking, the app identifies songs that match your chosen criteria.
+Effortless Integration: Once the playlist is generated, you have the option to add it directly to your Spotify library, making it a convenient tool for both playlist starters and those in need of an on-the-go playlist.
+
 <br>
 <!--
 ## Post Retrospective
