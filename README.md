@@ -15,8 +15,13 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-Ever wanted to create a Spotify playlist on the go? Or a playlist starter? Look no further! Introducing the Spotify Playlist Generator web app, a powerful tool I developed to streamline the playlist creation process.
+## Installation and usage
+1. Initialize backend servers
+   <img src="img/usage.png" alt="usage" width="250" height="250">
+   
+3. Initialize web server
+   Install [MAMP](https://www.mamp.info/en/downloads/)
+   Open the root MAMP folder and open index.html on your web browser
 
 
 ## The Challenge
