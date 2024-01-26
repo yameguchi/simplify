@@ -1,8 +1,5 @@
 <a name="readme-top"></a>
 
-<a href="https://www.linkedin.com/in/yamato-eguchi">![LinkedIn][LinkedIn-Shield]</a>
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
