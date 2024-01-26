@@ -18,7 +18,7 @@
 ## Installation and usage
 1. Initialize backend servers
    <br/>
-&emsp;&emsp;<img src="img/usage.png" alt="usage" width="250" height="250">
+&emsp;&emsp;<img src="img/usage_bash.png" alt="usage" width="250" height="250">
    
 3. Initialize web server
     - Install [MAMP](https://www.mamp.info/en/downloads/)
