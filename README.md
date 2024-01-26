@@ -17,11 +17,11 @@
 <!-- ABOUT THE PROJECT -->
 ## Installation and usage
 1. Initialize backend servers
-   <img src="img/usage.png" alt="usage" width="250" height="250">
+  - <img src="img/usage.png" alt="usage" width="250" height="250">
    
 3. Initialize web server
-   Install [MAMP](https://www.mamp.info/en/downloads/)
-   Open the root MAMP folder and open index.html on your web browser
+  - Install [MAMP](https://www.mamp.info/en/downloads/)
+  - Open the root MAMP folder and open index.html on your web browser
 
 
 ## The Challenge
