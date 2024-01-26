@@ -22,7 +22,7 @@
     - Open the root MAMP folder and open index.html on your web browser
   
 ## Description
-Simplify is a web application that generates playlists based on algorithmic compatibility scores between users’ listening data and the current top 100s of different music categories. The similarity score is computed using cosine similarity between the generated feature vector of the current top-100s and user's listening data. To extract the feature vector, data was cleaned, standardized, and normalized using methods such as One Hot Encoding (for release year), TF-IDF (for genres), and Min-max Scaling.
+Simplify is a web application that generates playlists based on algorithmic compatibility scores between users’ listening data and the current top 100s of different music categories. The similarity score is computed using cosine similarity between the generated feature vector of the current top-100s and user's listening data. To extract the feature vector, data was cleaned, standardized, and normalized using methods such as One Hot Encoding (e.g., for release year), TF-IDF (e.g., for genres), and Min-max Scaling.
 
 ## Demo
 
