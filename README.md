@@ -19,7 +19,8 @@
    
 3. Initialize web server
     - Install [MAMP](https://www.mamp.info/en/downloads/)
-    - Open the root MAMP folder and open index.html on your web browser
+    - Import the contents of the frontend folder into the root MAMP folder
+    - Start up MAMP and open **index.html** on your browser by visiting https://localhost:3000 (note: port may depend on your MAMP installation)
   
 ## Description
 Simplify is a web application that generates playlists based on algorithmic compatibility scores between users’ listening data and the current top 100s of different music categories. The similarity score is computed using cosine similarity between the generated feature vector of the current top-100s and user's listening data. To extract the feature vector, data was cleaned, standardized, and normalized using methods such as One Hot Encoding (e.g., for release year), TF-IDF (e.g., for genres), and Min-max Scaling.
