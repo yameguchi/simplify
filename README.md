@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/yameguchi/simplify">
     <img src="img/simplify.png" alt="Logo" width="250" height="250">
   </a>
   <p align="center">
